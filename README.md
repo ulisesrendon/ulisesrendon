@@ -5,7 +5,9 @@
 
 - 📝 Escribo artículos regularmente en mi blog: [https://neuralpin.xyz](https://neuralpin.xyz)
 
-- 💬 Preguntame acerca de **Wordpress, Jamstack, JS, PHP**
+- 💬 Preguntame acerca de **PHP, JavaScript, SQL, Jamstack y Wordpress**
+
+- Mi Codepen: [https://codepen.io/fdulises](https://codepen.io/fdulises)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdulises&layout=compact&hide=html" alt="fdulises" /></p>
 
