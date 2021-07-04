@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fdulises" alt="fdulises" /> </p>
 
-- 📝 Escribo artículos regularmente en mi blog: [https://neuralpin.xyz](https://neuralpin.xyz)
+- 📝 Escribo artículos regularmente en mi blog: [https://neuralpin.xyz](https://neuralpin.com)
 
 - 💬 Preguntame acerca de **PHP, JavaScript, SQL, Jamstack y Wordpress**
 
