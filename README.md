@@ -7,7 +7,7 @@
 
 - 💬 Preguntame acerca de **PHP, JavaScript, SQL, Laravel, Drupal y Wordpress**
 
-- Mi Codepen: [https://codepen.io/fdulises](https://codepen.io/ulisesrendon)
+- Mi Codepen: [https://codepen.io/ulisesrendon](https://codepen.io/ulisesrendon)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulisesrendon&layout=compact&hide=html" alt="ulisesrendon" /></p>
 
