@@ -7,11 +7,11 @@
 
 - 💬 Preguntame acerca de **PHP, JavaScript, SQL, Laravel, Drupal y Wordpress**
 
-- Mi Codepen: [https://codepen.io/fdulises](https://codepen.io/fdulises)
+- Mi Codepen: [https://codepen.io/fdulises](https://codepen.io/ulisesrendon)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdulises&layout=compact&hide=html" alt="fdulises" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulisesrendon&layout=compact&hide=html" alt="ulisesrendon" /></p>
 
 <p align="center">
-<a href="https://codepen.io/fdulises" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="fdulises" height="30" width="30" /></a>
+<a href="https://codepen.io/ulisesrendon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ulisesrendon" height="30" width="30" /></a>
 <a href="https://twitter.com/fidelulises" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fidelulises" height="30" width="30" /></a>
 </p>
