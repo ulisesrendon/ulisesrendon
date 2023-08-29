@@ -1,5 +1,5 @@
-<h1 align="center">Saludos 👋, Soy Ulises Rendón</h1>
-<h3 align="center">Un desarrollador web del estado de México</h3>
+<h1 align="center">👋 Saludos!, Soy Ulises Rendón</h1>
+<h3 align="center">Un desarrollador de software del estado de México</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fdulises" alt="fdulises" /> </p>
 
