@@ -1,11 +1,11 @@
 <h1 align="center">👋 Saludos!, Soy Ulises Rendón</h1>
-<h3 align="center">Un desarrollador de software del estado de México</h3>
+<h3 align="center">Un desarrollador de software de la ciudad de México</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fdulises" alt="fdulises" /> </p>
 
 - 📝 Escribo artículos regularmente en mi blog: [https://neuralpin.com](https://neuralpin.com)
 
-- 💬 Preguntame acerca de **PHP, JavaScript, SQL, Laravel, Drupal y Wordpress**
+- 💬 Preguntame acerca de **PHP, SQL, JavaScript, Laravel, Nginx, Apache, Drupal y Wordpress**
 
 - Mi Codepen: [https://codepen.io/ulisesrendon](https://codepen.io/ulisesrendon)
 
